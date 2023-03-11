@@ -5,8 +5,13 @@ Here, I have trained, validated, and fine-tuned a multi-class ordinal logistic r
 
 The provided notebook consists of the code for this project, which involves five main steps:
 
+
 Step 1: Data Cleaning
+
 Step 2: Exploratory Data Analysis and Feature Selection
+
 Step 3: Model Implementation
+
 Step 4: Model Tuning
+
 Step 5: Testing and Discussion
